@@ -1,6 +1,6 @@
 ## Senior Design I 
-## Jason Russell
-## Task List
+### Jason Russell
+### Task List
 
 * identify what technology will be used for the front-end
 * identify what technology will be used for the back end 
