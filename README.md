@@ -23,8 +23,6 @@ A web application centered around gaming that will pull information from a numbe
 
 4. [Professional Biographies](https://github.com/russej7/Senior-Design-Fall2020/tree/master/Professional_Biography)
 
-5. Budget
+5. [ABET Concerns]()
 
-6. ABET Concerns
-
-7. Appendix
+6. [Appendix]()
