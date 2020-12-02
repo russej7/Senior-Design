@@ -1,6 +1,6 @@
 # CS5001 Senior Design Project Fall 2020
 
-####Project Name####
+#### Project Name
 OneHP 
 
 **Members**
