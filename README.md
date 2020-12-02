@@ -15,9 +15,9 @@ A web application centered around gaming that will pull information from a numbe
 #### Table of Contents 
 1. [Project Tasks](https://github.com/russej7/Senior-Design-Fall2020/blob/master/tasklist.md)
 
-2. [Design Diagrams & User Stores](https://github.com/russej7/Senior-Design-Fall2020/tree/master/Design_Diagrams)
+2. [Design Diagrams & User Stories](https://github.com/russej7/Senior-Design-Fall2020/tree/master/Design_Diagrams)
  
-2. PPT Slideshow
+2. [PPT Slideshow](https://docs.google.com/presentation/d/1O_cVUAHTp0nGSTg6v6uUUpZSCrsb04s5fWYg74RdE7E/edit?usp=sharing)
 
 3. [Self-Assessment Essay](https://github.com/russej7/Senior-Design-Fall2020/tree/master/Individual_Assessment)
 
