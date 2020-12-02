@@ -3,15 +3,15 @@
 #### Project Name
 OneHP 
 
-**Members**
+#### Members
 Jason Russell
 
-**Faculty Advisor**
+####Faculty Advisor 
 
-**Project Description** 
+#### Project Description 
 A web application centered around gaming that will pull information from a number of different sources. The application will include information on games, team-up opportunites, tournaments, and more. 
 
-### Table of Contents 
+#### Table of Contents 
 **1.[Project Tasks](https://github.com/russej7/Senior-Design-Fall2020/blob/master/tasklist.md)**
  
 **2.PPT Slideshow**
