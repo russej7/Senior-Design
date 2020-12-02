@@ -6,7 +6,8 @@ OneHP
 #### Members
 Jason Russell
 
-####Faculty Advisor 
+#### Faculty Advisor 
+TDB
 
 #### Project Description 
 A web application centered around gaming that will pull information from a number of different sources. The application will include information on games, team-up opportunites, tournaments, and more. 
