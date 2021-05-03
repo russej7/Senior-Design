@@ -1,9 +1,3 @@
-Senior Design I 
-
-Jason Russell
-
-Individual Capstone Assessment 
-
 For my senior design project, I will be designing a scalable web application. This application will be focused on gaming since that is something I am passionate about. This project for me is about honing all the skills I have learned throughout my time here in the UC computer science program. It will also require me to learn new things that I did not already know. It will be a good way to determine whether I am ready to work in the field. I do believe that this is the best next step for me. 
 
 As mentioned above this project will show what I have learned from the computer science program. The computer science program at UC has taught me numerous technical skills and professional skills. Classes like CS 1021 gave me a very useful introduction to coding. Classes like CS 2021 and CS 2028 taught me a lot about object-oriented programming. These are all things that I will use during these projects. All of my other classes taught me good problem-solving skills. They also taught me the best way to approach large projects, and how to do proper research. 
