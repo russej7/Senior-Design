@@ -1,0 +1,7 @@
+I worked on this project alone so I will just be discussing my contribution. I applied all of the skills that I have learned over my time here in the CS program. Working on this project has also help me build on these skills. This project has helped me develop my technical scales, and my project management skills. It also taught me a lot about managing my time.
+
+I created a web application centered around gaming. This application contains information on various things in the gaming community. I did this by using my knowledge of gaming and technologies such as JavaScript, VueJs, HTML, CSS, and other technologies. My successes were when I would complete a big step in the project, like get the web server up in running or make the homepage. Some of the obstacles were just things that you would normally experience with a career in cs. These obstacles included bugs and compatibility issues.
+
+As an individual I accomplished creating a decently sized project on my own. I really had to work on managing my time with work and school in order to complete this. The efforts on this project were all my own. I learned a lot about what it is like to work on a project by myself. 
+
+Although I did work on this alone, I can still apply what I did on this project to future group projects in my career. Like I mentioned before, I still had to manage my time and make sure I was completing my tasks. This is something that will also apply when I am working on a project with a group. 
