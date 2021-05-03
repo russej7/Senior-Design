@@ -29,4 +29,4 @@ A web application centered around gaming that will pull information from a numbe
 
 6. [Summary of Hours](https://github.com/russej7/Senior-Design-Fall2020/tree/master/Summary_of_Hours)
 
-8. [Appendix]()
+8. [Appendix](https://github.com/russej7/Senior-Design-Fall2020/blob/master/appendix.md)
