@@ -19,10 +19,14 @@ A web application centered around gaming that will pull information from a numbe
  
 2. [PPT Slideshow](https://docs.google.com/presentation/d/1O_cVUAHTp0nGSTg6v6uUUpZSCrsb04s5fWYg74RdE7E/edit?usp=sharing)
 
-3. [Self-Assessment Essay](https://github.com/russej7/Senior-Design-Fall2020/tree/master/Individual_Assessments)
+3. [Poster]
 
-4. [Professional Biographies](https://github.com/russej7/Senior-Design-Fall2020/tree/master/Professional_Biography)
+4. [Self-Assessments](https://github.com/russej7/Senior-Design-Fall2020/tree/master/Individual_Assessments)
 
-5. [ABET Concerns](https://github.com/russej7/Senior-Design-Fall2020/blob/master/constraints.md)
+5. [Professional Biographies](https://github.com/russej7/Senior-Design-Fall2020/tree/master/Professional_Biography)
 
-6. [Appendix]()
+6. [ABET Concerns](https://github.com/russej7/Senior-Design-Fall2020/blob/master/constraints.md)
+
+6. [Summary of Hours]
+
+8. [Appendix]()
